@@ -1,2 +1,2 @@
-django-example/virtual/*
-django-example/django-example/__pycache__
+/django-example/virtual/
+/django-example/django-example/__pycache__
